@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ 			jQuery( document ).ready(function() {
+				UAGBForms.init( {"block_id":"e75fb611","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"jorge@jorgecorreapsd.com.br","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Dados de usu\u00e1rio","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Please fill up the above captcha.","confirmationUrl":""}, '.uagb-block-e75fb611' );
+			});
+			 })
